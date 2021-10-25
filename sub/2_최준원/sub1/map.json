@@ -1,0 +1,62 @@
+{
+    "0":{
+        "id":1,
+        "store_name":"Agal",
+        "branch":null,
+        "area":"홍대",
+        "tel":"010-6689-5886",
+        "address":"서울특별시 마포구 동교동 170-13",
+        "latitude":"37.556862",
+        "longitude":"126.926666",
+        "category":"아구찜|포장마차",
+        "review_cnt":0
+    },
+    "1":{
+        "id":2,
+        "store_name":"Assisy",
+        "branch":null,
+        "area":"광주",
+        "tel":"062-367-0700",
+        "address":"광주광역시 서구 농성동 631-33",
+        "latitude":"35.150746",
+        "longitude":"126.890062",
+        "category":"카페",
+        "review_cnt":0
+    },
+    "2":{
+        "id":3,
+        "store_name":"Battered Sole",
+        "branch":null,
+        "area":"이태원",
+        "tel":"02-749-6867",
+        "address":"서울특별시 용산구 이태원동 118-9",
+        "latitude":"37.535032",
+        "longitude":"126.991664",
+        "category":"피쉬앤칩스|펍",
+        "review_cnt":0
+    },
+    "3":{
+        "id":4,
+        "store_name":"Chakyoung",
+        "branch":null,
+        "area":"달맞이길",
+        "tel":"051-756-5566",
+        "address":"부산광역시 해운대구 중2동 1509-5",
+        "latitude":"35.158587",
+        "longitude":"129.175004",
+        "category":"레스토랑|카프레제",
+        "review_cnt":0
+    },
+    "4":{
+        "id":5,
+        "store_name":"Delabobo",
+        "branch":null,
+        "area":"발산역",
+        "tel":"02-2667-9854",
+        "address":"서울특별시 강서구 등촌동 689",
+        "latitude":"37.559904",
+        "longitude":"126.840512",
+        "category":"디저트카페|디저트",
+        "review_cnt":0
+    }
+}

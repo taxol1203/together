@@ -1,0 +1,23 @@
+{% load socialaccount %}
+{% providers_media_js %}
+
+<h1>hello world</h1>
+
+<a href="account/register/">이메일 회원가입</a>
+<a href="account/login/">이메일 로그인</a>
+<br>
+
+{% if user.is_authenticated %}
+<a href="accounts/logout">소셜 로그아웃</a>
+<a href="account/logout/">이메일 로그아웃</a>
+<br>
+{{ user.username }} 님이 로그인 중
+{{ user.nickname }}
+{{ user.phone_number }}
+{% else %}
+<a href="{% provider_login_url 'google' %}">구글 로그인</a>
+<a href="{% provider_login_url 'naver' %}">네이버 로그인</a>
+<a href="{% provider_login_url 'kakao' %}">카카오 로그인</a>
+
+로그인 해야됨
+{% endif %}

@@ -1,0 +1,322 @@
+{
+  "contents": [
+    {
+      "id": 1,
+      "title": "DP",
+      "poster_path": "https://images.justwatch.com/poster/249686340/s332/d-p.webp",
+      "sim_rate": 98,
+      "providers": [
+        "netflix"
+      ],
+      "first_air_year": 2017,
+      "rated": "청불",
+      "seasons": 5,
+      "overview": "1명의 천재, 8명의 공범, 철저히 준비한 세기의 강도. 스페인 조폐국에서 인질극까지 벌인 이들은 과연 포위 경찰을 따돌리고 거액의 돈과 함께 달아날 수 있을까?"
+    },
+    {
+      "id": 2,
+      "title": "종이의 집",
+      "poster_path": "https://images.justwatch.com/poster/235094884/s276/la-casa-de-papel-el-fenomeno.webp",
+      "sim_rate": 98,
+      "providers": [
+        "netflix"
+      ],
+      "first_air_year": 2017,
+      "rated": "청불",
+      "seasons": 5,
+      "overview": "1명의 천재, 8명의 공범, 철저히 준비한 세기의 강도. 스페인 조폐국에서 인질극까지 벌인 이들은 과연 포위 경찰을 따돌리고 거액의 돈과 함께 달아날 수 있을까?"
+    },
+    {
+      "id": 3,
+      "title": "하트시그널",
+      "poster_path": "https://images.justwatch.com/poster/192234916/s276/hateusigeuneol.webp",
+      "sim_rate": 98,
+      "providers": [
+        "netflix"
+      ],
+      "first_air_year": 2017,
+      "rated": "청불",
+      "seasons": 5,
+      "overview": "1명의 천재, 8명의 공범, 철저히 준비한 세기의 강도. 스페인 조폐국에서 인질극까지 벌인 이들은 과연 포위 경찰을 따돌리고 거액의 돈과 함께 달아날 수 있을까?"
+    },
+    {
+      "id": 4,
+      "title": "킹덤",
+      "poster_path": "https://images.justwatch.com/poster/247794970/s276/kingdom-ashin-of-the-north.webp",
+      "sim_rate": 98,
+      "providers": [
+        "netflix",
+        "watcha",
+        "wavve"
+      ],
+      "first_air_year": 2017,
+      "rated": "청불",
+      "seasons": 5,
+      "overview": "1명의 천재, 8명의 공범, 철저히 준비한 세기의 강도. 스페인 조폐국에서 인질극까지 벌인 이들은 과연 포위 경찰을 따돌리고 거액의 돈과 함께 달아날 수 있을까?"
+    },
+    {
+      "id": 5,
+      "title": "설국열차",
+      "poster_path": "https://images.justwatch.com/poster/176335430/s276/snowpiercer.webp",
+      "sim_rate": 98,
+      "providers": [
+        "netflix",
+        "watcha",
+        "wavve"
+      ],
+      "first_air_year": 2017,
+      "rated": "청불",
+      "seasons": 5,
+      "overview": "1명의 천재, 8명의 공범, 철저히 준비한 세기의 강도. 스페인 조폐국에서 인질극까지 벌인 이들은 과연 포위 경찰을 따돌리고 거액의 돈과 함께 달아날 수 있을까?"
+    },
+    {
+      "id": 6,
+      "title": "부산행",
+      "poster_path": "https://images.justwatch.com/poster/187605738/s592/busanhaeng.webp",
+      "sim_rate": 98,
+      "providers": [
+        "netflix",
+        "watcha",
+        "wavve"
+      ],
+      "first_air_year": 2017,
+      "rated": "청불",
+      "seasons": 5,
+      "overview": "1명의 천재, 8명의 공범, 철저히 준비한 세기의 강도. 스페인 조폐국에서 인질극까지 벌인 이들은 과연 포위 경찰을 따돌리고 거액의 돈과 함께 달아날 수 있을까?"
+    }
+  ],
+  "parties": [
+    {
+      "id": 1,
+      "title": "5명이 함께 즐기는 넷플릭스!",
+      "desc": "⭐ 안녕하세요. 야플릭스 입니다! 2020년 11월부터 운영하기 시작하여 누적 5,000건 이상 판매했으며, 재구매율 90% 이상의 만족도를 유지하고 있습니다. 365일 24시간 카톡 문의 가능하니 언제든 편하게 말씀 주세요. 앞으로도 안정적이고 저렴한 서비스를 제공해 드리기 위해 최선의 노력을 다하겠습니다. 많이 구매해주세요!",
+      "member_limit": 5,
+      "end_date": "2021-12-25",
+      "price_per_day": 85,
+      "provider_name": "넷플릭스",
+      "provider_logo_url": "@/assets/images/netflix.png",
+      "provider_price_per_day": 300,
+      "host_name": "김병훈",
+      "members_count": 3,
+      "service_id": "kepy1106",
+      "service_password": "q1w2e3r4!@"
+    },
+    {
+      "desc": "ㅅㅅㅅ",
+      "provider_name": "웨이브",
+      "provider_logo_url": "@/assets/images/netflix.png",
+      "provider_price_per_day": 300,
+      "host_name": "김병훈",
+      "members_count": 1,
+      "title": "ㅂㅂㅂ",
+      "service_id": "ㄷㄷㄷ",
+      "service_password": "ㄱㄱㄱ",
+      "member_limit": 2,
+      "end_date": "2021-10-29",
+      "price_per_day": 2,
+      "id": 2
+    },
+    {
+      "desc": "ㅗㅗㅗ",
+      "provider_name": "웨이브",
+      "provider_logo_url": "@/assets/images/netflix.png",
+      "provider_price_per_day": 300,
+      "host_name": "김병훈",
+      "members_count": 3,
+      "title": "ㅁㄴㅇㄹ",
+      "service_id": "ㄴㅇㄹ",
+      "service_password": "ㅁㄴㅇㄹ",
+      "member_limit": 5,
+      "end_date": "2021-10-01",
+      "price_per_day": 2000,
+      "id": 3
+    },
+    {
+      "desc": "fff",
+      "provider_name": "왓챠",
+      "provider_logo_url": "@/assets/images/netflix.png",
+      "provider_price_per_day": 300,
+      "host_name": "김병훈",
+      "members_count": 3,
+      "title": "ff",
+      "service_id": "dd",
+      "service_password": "ss",
+      "member_limit": 3,
+      "end_date": "2021-09-29",
+      "price_per_day": 2,
+      "id": 4
+    },
+    {
+      "desc": "1",
+      "provider_Name": "넷플릭스",
+      "provider_Logo_Url": "@/assets/images/netflix.png",
+      "provider_Price_Per_Day": 300,
+      "host_Name": "김병훈",
+      "members_Count": 3,
+      "title": "1",
+      "service_Id": "1",
+      "service_Password": "1",
+      "member_Limit": 4,
+      "end_Date": "2021-10-09",
+      "price_Per_Day": 123,
+      "id": 6
+    },
+    {
+      "desc": "12234123",
+      "provider_Name": "왓챠",
+      "provider_Logo_Url": "@/assets/images/netflix.png",
+      "provider_Price_Per_Day": 300,
+      "host_Name": "김병훈",
+      "members_Count": 3,
+      "title": "1123",
+      "service_Id": "123",
+      "service_Password": "123",
+      "member_Limit": 4,
+      "end_Date": "2021-10-09",
+      "price_Per_Day": 123,
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "user": {
+        "nickName": "넷플조아",
+        "profileImg": "https://cdn-icons-png.flaticon.com/512/1864/1864513.png"
+      },
+      "comment": "종이로 집을 지으면 전부 타버릴거야!",
+      "like": 10,
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "user": {
+        "nickName": "넷플조아",
+        "profileImg": "https://cdn-icons-png.flaticon.com/512/1864/1864513.png"
+      },
+      "comment": "종이로 집을 지으면 전부 타버릴거야!",
+      "like": 10,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "user": {
+        "nickName": "넷플조아",
+        "profileImg": "https://cdn-icons-png.flaticon.com/512/1864/1864513.png"
+      },
+      "comment": "종이로 집을 지으면 전부 타버릴거야!",
+      "like": 10,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "user": {
+        "nickName": "넷플조아",
+        "profileImg": "https://cdn-icons-png.flaticon.com/512/1864/1864513.png"
+      },
+      "comment": "종이로 집을 지으면 전부 타버릴거야!",
+      "like": 10,
+      "rating": 4
+    }
+  ],
+  "myparty": [
+    {
+      "id": 1,
+      "provider": "넷플릭스"
+    },
+    {
+      "id": 2,
+      "provider": "왓챠"
+    },
+    {
+      "id": 3,
+      "provider": "웨이브"
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "name": "김정일",
+      "nickName": "닉네임 바뀜222",
+      "phone_number": "010-1803-1806",
+      "email": "email@email.com",
+      "favorite_genres": [
+        {
+          "id": 1,
+          "name": "Action",
+          "k_name": "액션"
+        },
+        {
+          "id": 2,
+          "name": "Adventure",
+          "k_name": "어드벤쳐"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "김정은",
+      "nickName": "괴뢰군두목",
+      "phone_number": "010-1803-1806",
+      "email": "email2@email.com",
+      "favorite_genres": []
+    }
+  ],
+  "me": {
+    "id": 100,
+    "name": "김병훈",
+    "nickName": "닉네임 바뀜222",
+    "phone_number": "010-1803-1806",
+    "email": "keyp123asdf@as.com",
+    "password": "q1w2e3r4!@",
+    "snsProvider": null,
+    "snsId": null
+  },
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action",
+      "k_name": "액션"
+    },
+    {
+      "id": 2,
+      "name": "Adventure",
+      "k_name": "어드벤쳐"
+    },
+    {
+      "id": 3,
+      "name": "Animation",
+      "k_name": "애니메이션"
+    },
+    {
+      "id": 4,
+      "name": "Crime",
+      "k_name": "범죄"
+    },
+    {
+      "id": 5,
+      "name": "Documentary",
+      "k_name": "다큐멘터리"
+    },
+    {
+      "id": 6,
+      "name": "Drama",
+      "k_name": "드라마"
+    },
+    {
+      "id": 7,
+      "name": "Family",
+      "k_name": "가족"
+    },
+    {
+      "id": 8,
+      "name": "Fantasy",
+      "k_name": "판타지"
+    },
+    {
+      "id": 9,
+      "name": "History",
+      "k_name": "역사"
+    }
+  ]
+}

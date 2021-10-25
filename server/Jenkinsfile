@@ -1,0 +1,31 @@
+pipeline {
+	agent none
+	options { skipDefaultCheckout(false) }
+
+	stages {
+
+		stage('Docker build') {
+      agent any
+			steps {
+				sh 'docker build -t frontend /home/ubuntu/auto_Together/frontend'
+				sh 'docker build -t backend_web_l /home/ubuntu/auto_Together/backend'
+			}
+		}
+		stage('Docker run') {
+			agent any
+			steps {
+				sh 'docker ps -f name=frontend -q | xargs --no-run-if-empty docker container stop'
+				sh 'docker ps -f name=backend_web_l -q | xargs --no-run-if-empty docker container stop'
+
+				sh 'docker container ls -a -f name=frontend -q | xargs -r docker container rm'
+				sh 'docker container ls -a -f name=backend_web_l -q | xargs -r docker container rm'
+
+				sh 'docker images -f dangling=true && docker rmi $(docker images -f dangling=true -q)'
+
+				sh 'docker run -d --name frontend -p 8080:8080  frontend:latest'
+				sh 'docker run -d --name backend_web_l -p 8000:8000  backend_web_l:latest'
+				
+			}
+		}
+	}
+}

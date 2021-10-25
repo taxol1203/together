@@ -1,0 +1,24 @@
+version: "3"
+services:
+    postgres:
+      container_name: postgres_service
+      image: postgres:12
+      volumes:
+        - ./data/postgres:/var/lib/postgresql/data
+      environment:
+        - POSTGRES_DB=ott_db
+        - POSTGRES_USER=postgres
+        - POSTGRES_PASSWORD=root
+        - POSTGRES_HOST=postgres
+        - POSTGRES_PORT=5432
+
+    django:
+      container_name: django_service
+      command: "python manage.py runserver"
+      build: .
+      volumes:
+        - .:/home/ubuntu/Together/backend
+      depends_on:
+        - postgres
+      ports:
+        - "8000:8000"
