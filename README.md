@@ -2,7 +2,7 @@
 
 | Name     | 김병훈                                          | 최준원                                        | 최정훈                                        | 한주연                                        | 이승균                                          |
 | -------- | ----------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | ----------------------------------------------- |
-| Profile  | ![Rectangle 11](README.assets/Rectangle 11.png) | ![Rectangle 9](README.assets/Rectangle 9.png) | ![Rectangle 8](README.assets/Rectangle 8.png) | ![Rectangle 7](README.assets/Rectangle 7.png) | ![Rectangle 10](README.assets/Rectangle 10.png) |
+| Profile  | ![Rectangle 11](README.assets/Rectangle_11.png) | ![Rectangle 9](README.assets/Rectangle_9.png) | ![Rectangle 8](README.assets/Rectangle_8.png) | ![Rectangle 7](README.assets/Rectangle_7.png) | ![Rectangle 10](README.assets/Rectangle_10.png) |
 | Position | FE & UI/UX                                      | FE & CI/CD                                    | BE & CI/CD                                    | BE & Data                                     | FE                                              |
 | Git      | [@byung-hun](https://github.com/byunghun-jake)  | [@gomyo](https://github.com/gomyo)            | [@maru9525](https://github.com/maru9525)      | [@taxol1203](https://github.com/taxol1203)    |                                                 |
 
